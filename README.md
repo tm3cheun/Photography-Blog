@@ -2,16 +2,20 @@
 
 This project is a web app for your photography blog and is created using the angular-seed skeleton.
 
+![](screenshots/home.png | width=500)
+
+![](screenshots/gallery.png | width=500)
+
+
+## Getting Started
+
 ### Clone `Photography Blog`
 
 Clone the `Photography Blog` repository using git:
 
 ```
 git clone [FILL ME IN LATER]
-cd 
-```
-
-```
+cd photography-blog
 npm install
 ```
 
@@ -21,7 +25,7 @@ npm install
 npm start
 ```
 
-Open a browser at [`localhost:8000/index.html`][local-app-url].
+Open a browser at `localhost:8000/index.html`.
 
 ## Personalizing the blog
 
