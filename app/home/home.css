@@ -1,0 +1,61 @@
+.home#content {
+  margin-top: 100px;
+}
+
+.galleries {
+  max-width: 750px;
+  margin: auto;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.home .gallery {
+  display: inline-block;
+  padding: 10px;
+  text-align: center;
+  -webkit-transition: opacity 0.5s ease-in-out;
+  -moz-transition: opacity 0.5s ease-in-out;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.home .gallery:hover {
+  opacity: 0.7;
+}
+
+.home .gallery .titlePicture {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: scroll;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+}
+
+.heading {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100px;
+  width: 100%;
+  background-color: #f3f3f3;
+  font-family: 'BebasNeueBold'; 
+  font-weight: normal; 
+  font-style: normal; 
+  font-size: 5em;
+  letter-spacing: 4px;  
+  text-align: center;
+  color: #000000;
+}
+
+.text {
+  font-family: 'MontserratRegular'; 
+  font-size: 1em;
+  font-style: normal;
+  font-weight: normal;
+  letter-spacing: 1px;
+  margin: auto;
+}

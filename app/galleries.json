@@ -1,0 +1,80 @@
+[
+	{
+		"album": "Blue",
+		"cover": "images/blue/04.png",
+		"id": 0,
+		"images": [
+			{
+				"index": 1,
+				"image": "images/blue/04.png"
+			}
+		]
+	},
+	{
+		"album": "Brown",
+		"cover": "images/brown/09.jpg",
+		"id": 1,
+		"images": [
+			{
+				"index": 1,
+				"image": "images/brown/09.jpg"
+			}
+		]
+	},
+	{
+		"album": "Green",
+		"cover": "images/green/05.png",
+		"id": 2,
+		"images": [
+			{
+				"index": 1,
+				"image": "images/green/05.png"
+			},
+			{
+				"index": 2,
+				"image": "images/green/07.jpg"
+			}
+		]
+	},
+	{
+		"album": "Pink",
+		"cover": "images/pink/01.png",
+		"id": 3,
+		"images": [
+			{
+				"index": 1,
+				"image": "images/pink/01.png"
+			},
+			{
+				"index": 2,
+				"image": "images/pink/02.png"
+			}
+		]
+	},
+	{
+		"album": "Violet",
+		"cover": "images/violet/03.png",
+		"id": 4,
+		"images": [
+			{
+				"index": 1,
+				"image": "images/violet/03.png"
+			},
+			{
+				"index": 2,
+				"image": "images/violet/06.jpg"
+			}
+		]
+	},
+	{
+		"album": "Yellow",
+		"cover": "images/yellow/08.jpg",
+		"id": 5,
+		"images": [
+			{
+				"index": 1,
+				"image": "images/yellow/08.jpg"
+			}
+		]
+	}
+]

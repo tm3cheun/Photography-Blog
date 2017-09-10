@@ -1,0 +1,16 @@
+<div class="gallery-content">
+	<div id="bg" ng-repeat="photo in images" ng-class="{'active': photo.index === pageNumber}" ng-style="{'background-image':'url({{photo.image}})'}">
+	</div>
+
+	<div class="gallery-title">{{gallery.album}}</div>
+
+	<div class="exit" ng-click="exit()">
+		<span class="fa fa-times-circle"></span>
+	</div>
+
+	<ul class="pagination">
+	  <li ng-class="{ 'disabled': photo.index === 1 }"><a ng-click="goToPreviousPage()"><span class="fa fa-chevron-left"></span></a></li>
+	  <li ng-repeat="photo in images" ng-class="{ 'active': photo.index === pageNumber }"><a ng-click="goToImageNumber(photo.index)">{{ photo.index }}</a></li>
+	  <li ng-class="{ 'disabled': photo.index === totalPages }"><a ng-click="goToNextPage()"><span class="fa fa-chevron-right"></span></a></li>
+	</ul>
+</div>
