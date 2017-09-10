@@ -2,9 +2,9 @@
 
 This project is a web app for your photography blog and is created using the angular-seed skeleton.
 
-![](screenshots/home.png | width=500)
+![](https://github.com/tm3cheun/photography-blog/blob/master/screenshots/gallery.png | width=500)
 
-![](screenshots/gallery.png | width=500)
+![](https://github.com/tm3cheun/photography-blog/blob/master/screenshots/home.png | width=500)
 
 
 ## Getting Started
@@ -14,7 +14,7 @@ This project is a web app for your photography blog and is created using the ang
 Clone the `Photography Blog` repository using git:
 
 ```
-git clone [FILL ME IN LATER]
+git clone https://github.com:tm3cheun/photography-blog.git
 cd photography-blog
 npm install
 ```
