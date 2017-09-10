@@ -2,9 +2,9 @@
 
 This project is a web app for your photography blog and is created using the angular-seed skeleton.
 
-![home](https://github.com/tm3cheun/photography-blog/blob/master/screenshots/gallery.png | width=500)
+![home](https://github.com/tm3cheun/photography-blog/blob/master/screenshots/gallery.png)
 
-![gallery](https://github.com/tm3cheun/photography-blog/blob/master/screenshots/home.png | width=500)
+![gallery](https://github.com/tm3cheun/photography-blog/blob/master/screenshots/home.png)
 
 
 ## Getting Started
